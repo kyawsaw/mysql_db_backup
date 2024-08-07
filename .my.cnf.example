@@ -1,0 +1,9 @@
+[client]
+user = your_awsome_db_user
+password = 'your_super_secret_password'
+host = your_awsome_db_server /or db_server_ip
+port = 3306 /or your_db_port
+
+[mysqldump]
+quick
+single-transaction
